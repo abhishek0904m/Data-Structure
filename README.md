@@ -20,7 +20,7 @@ New programs will be added regularly to expand the coverage of VTU and general D
 ## 📁 Current Programs
 
 * **Permutation.java** – Generates all permutations of digits and prints the next greater number formed.
-* *(More programs will be added here)*
+* **LetterCombinations.java** – Generates all possible letter combinations for a given digit string based on the mobile keypad mapping.
 
 ## 🚀 How to Use
 
